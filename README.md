@@ -18,4 +18,8 @@ git push -u origin main
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shambhavim57-netizen/Leetcode-tracker/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shambhavim57-netizen/Leetcode-tracker/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
