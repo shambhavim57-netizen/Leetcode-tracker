@@ -49,4 +49,8 @@ git push -u origin main
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shambhavim57-netizen/Leetcode-tracker/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/shambhavim57-netizen/Leetcode-tracker/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
